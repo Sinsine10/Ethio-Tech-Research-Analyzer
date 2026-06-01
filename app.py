@@ -1,9 +1,3 @@
-"""
-MINT Ethiopia — Tech Research Trend Analyzer
-Streamlit app that fetches, analyzes, and visualizes daily research papers
-relevant to Ethiopia's technology sector using public APIs and Claude AI.
-"""
-
 import streamlit as st
 import requests
 import anthropic
